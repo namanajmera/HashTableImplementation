@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hashtableimplementation.MyHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-07T05:00:52" hostname="HACKERNAMAN" time="0.024">
+  <properties/>
+  <testcase name="givenASentence_WhenWordsAreAddedToList_ShouldReturnWordFrequency()" classname="com.hashtableimplementation.MyHashMapTest" time="0.024"/>
+  <system-out><![CDATA[MyHashMapNodes{MyLinkedListNodes{MyMapNode{K=to|V=2}->MyMapNode{K=be|V=2}->MyMapNode{K=or|V=1}->MyMapNode{K=not|V=1}}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
