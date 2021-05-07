@@ -1,2 +1,4 @@
 com/hashtableimplementation/MyHashMapTest.java
  com.hashtableimplementation.MyHashMapTest
+com/hashtableimplementation/MyLinkedHashMapTest.java
+ com.hashtableimplementation.MyLinkedHashMapTest

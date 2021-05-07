@@ -6,5 +6,7 @@ com/hashtableimplementation/MyMapNode.java
  com.hashtableimplementation.MyMapNode
 com/hashtableimplementation/MyHashMap.java
  com.hashtableimplementation.MyHashMap
+com/hashtableimplementation/MyLinkedHashMap.java
+ com.hashtableimplementation.MyLinkedHashMap
 com/hashtableimplementation/MyNode.java
  com.hashtableimplementation.MyNode
