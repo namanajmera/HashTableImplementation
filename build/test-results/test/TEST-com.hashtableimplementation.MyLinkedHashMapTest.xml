@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.hashtableimplementation.MyLinkedHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-07T05:25:08" hostname="HACKERNAMAN" time="0.03">
-  <properties/>
-  <testcase name="givenASentence_WhenWordsAreAddedToList_ShouldReturnWordFrequency()" classname="com.hashtableimplementation.MyLinkedHashMapTest" time="0.03"/>
-  <system-out><![CDATA[MyLinkedHashMap List{[MyLinkedListNodes{MyMapNode{K=themselves|V=1}}, MyLinkedListNodes{MyMapNode{K=but|V=1}->MyMapNode{K=keep|V=1}}, MyLinkedListNodes{MyMapNode{K=are|V=2}->MyMapNode{K=they|V=2}->MyMapNode{K=into|V=1}}, null, null, MyLinkedListNodes{MyMapNode{K=paranoids|V=1}->MyMapNode{K=putting|V=1}}, MyLinkedListNodes{MyMapNode{K=deliberately|V=1}}, MyLinkedListNodes{MyMapNode{K=not|V=1}->MyMapNode{K=avoidable|V=1}}, MyLinkedListNodes{MyMapNode{K=paranoid|V=3}->MyMapNode{K=because|V=2}}, MyLinkedListNodes{MyMapNode{K=situations|V=1}}]}
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
